@@ -3,6 +3,12 @@
 This project focuses on implementing the RSA algorithm to generate private/public keys and perform encryption/decryption and 
 signature generation/verification using the C programming language.
 
+`Project Report` - PDF file containing observations and steps to reimplement this project.
+
+`Crypto_RSA` - Setup and Instructions for each task.
+
+Task files - `task1.c`, `task2.c`, `task3.c`, `task4.c`, `task5.c`.
+
 ## Task 1: Calculate private-key d
 
 Run `task1.c` using the following commands:
